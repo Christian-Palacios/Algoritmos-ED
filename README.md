@@ -1,2 +1,2 @@
 # Algoritmos-ED
-Prueba de git y github
+Búsqueda Exhaustiva

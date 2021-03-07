@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1615081280 source:c:\users\christian palacios\documents\bases de datos\codeblocks\librerías\quicksort\main.cpp
+	<iostream>
+	<ctime>
+	"quicklib.h"
+
+1615081274 c:\users\christian palacios\documents\bases de datos\codeblocks\librerías\quicksort\quicklib.h
+

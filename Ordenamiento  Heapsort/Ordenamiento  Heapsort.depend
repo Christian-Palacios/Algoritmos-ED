@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615480248 source:c:\users\christian palacios\documents\programacion\codeblocks\ordenamiento  heapsort\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+
